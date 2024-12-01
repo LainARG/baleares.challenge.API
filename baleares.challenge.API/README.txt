@@ -23,7 +23,7 @@
 
 5 - Ingrese update-database y presione enter. 
 
-6 - Verifique que la base de datos ha sido creada correctamente
+6 - Verifique que las tablas han sido creada correctamente
     en su base de datos. 
 
 7 - Si lo anterior falla, sírvase del script Baleares.sql, pre-

@@ -182,8 +182,10 @@ vuelva a loguearse.///////////////////////////////////////////
 ######################################## IMPRESIONES GENERALES ############################################
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Por mi parte, miento si digo que este proyecto representó alguna clase de desafío, es algo que puede hacerse en dos dias de desarrollo (16hs o menos) sin demasiado inconveniente, más que nada por tratarse de un reque
-rimiento común del dia a dia en todo sentido, es muy dificil llegar a tener un perfil Sr. antes de tener que haber hecho decenas de veces algo como esto. 
+Por mi parte, miento si digo que este proyecto representó alguna clase de desafío, es algo que puede 
+hacerse en dos dias de desarrollo (16hs o menos) sin demasiado inconveniente, más que nada por tratarse 
+de un requerimiento común del dia a dia en todo sentido, es muy dificil llegar a tener un perfil Sr. 
+antes de haber hecho decenas de veces algo como esto. 
 
                                     ¿Como pudo ser más desafiante?
 
@@ -192,7 +194,8 @@ dev. backend plano, lo vuelve al mismo tiempo un poco más complejo para la mayo
 perfil orientado a fullstack.
 
 
-** CONCLUSIÓN: No fue desafiante, pero fue algo más lento por el requerimiento específico de usar una                       base de datos, cuando sin dudas pudo haberse configurado un seed de datos en memoria. 
+** CONCLUSIÓN: No fue desafiante, pero fue algo más lento por el requerimiento específico de usar una 
+base de datos, cuando sin dudas pudo haberse configurado un seed de datos en memoria. 
              
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
  

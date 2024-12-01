@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\baleares.challenge.API.props" />
+</Project>

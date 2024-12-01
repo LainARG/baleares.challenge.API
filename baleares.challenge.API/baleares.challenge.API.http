@@ -1,0 +1,6 @@
+@baleares.challenge.API_HostAddress = http://localhost:5188
+
+GET {{baleares.challenge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

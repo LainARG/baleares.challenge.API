@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M/a2ejgNEwSAQLIiXcs/7oPd2mfd+GcYSquCLxAWeVQ=",
+  "Source": "baleares.challenge.API",
+  "BasePath": "_content/baleares.challenge.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

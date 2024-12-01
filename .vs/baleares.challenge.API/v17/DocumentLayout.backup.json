@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\model\\contact\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\model\\contact\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\model\\account\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\model\\account\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\services\\token\\tokenvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\services\\token\\tokenvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\services\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\services\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\repository\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\repository\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\repository\\context\\balearescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\repository\\context\\balearescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\infrastructure\\middleware\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\infrastructure\\middleware\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\application\\dto\u00B4s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\application\\dto\u00B4s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|c:\\users\\lain\\desktop\\challenge\\baleares.challenge.api\\baleares.challenge.api\\application\\dto\u00B4s\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835FC1D2-C82E-4F22-A912-22DF1303457E}|baleares.challenge.API\\baleares.challenge.API.csproj|solutionrelative:baleares.challenge.api\\application\\dto\u00B4s\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\User\\User.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Model\\User\\User.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\User\\User.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Model\\User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\Contact\\Contact.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Model\\Contact\\Contact.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\Contact\\Contact.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Model\\Contact\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:52.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\Account\\Login.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Model\\Account\\Login.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Model\\Account\\Login.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Model\\Account\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:28.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenValidationService.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenValidationService.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenValidationService.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenService.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenService.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Services\\Token\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:09.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:46:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\Interfaces\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Repository\\Interfaces\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\Interfaces\\IContactRepository.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Repository\\Interfaces\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:45:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BalearesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\Context\\BalearesContext.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Repository\\Context\\BalearesContext.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Repository\\Context\\BalearesContext.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Repository\\Context\\BalearesContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:45:44.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Middleware\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Infrastructure\\Middleware\\TokenValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Infrastructure\\Middleware\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Infrastructure\\Middleware\\TokenValidationMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:44:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:44:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:44:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Application\\DTO\u00B4s\\UserDTO.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Application\\DTO\u00B4s\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Application\\DTO\u00B4s\\UserDTO.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Application\\DTO\u00B4s\\UserDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:44:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Application\\DTO\u00B4s\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Application\\DTO\u00B4s\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Application\\DTO\u00B4s\\ContactDTO.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Application\\DTO\u00B4s\\ContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:44:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "baleares.challenge.API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Challenge\\baleares.challenge.API\\baleares.challenge.API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "baleares.challenge.API\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:09:26.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
